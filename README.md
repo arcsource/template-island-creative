@@ -1,9 +1,7 @@
-## template-island-creative-404
+## template-island-creative
 
 > Archived and copied from the [Island - Creative 404 page](https://themehunt.com/item/1525070-island-creative-404-page) by [MH Rafi](https://themehunt.com/profile/MH%20Rafi) on themehunt.com.  
 > This codebase is meant to be used for CSS and web design reference and study purposes only.
-
-![template-island-creative-404](assets/thumbnail.png)
 
 ### Content
 
@@ -12,6 +10,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [References](#references)
+
+![template-island-creative-404](assets/thumbnail.png)
 
 ### Dependencies
 
